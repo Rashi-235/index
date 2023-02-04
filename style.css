@@ -35,4 +35,12 @@ body{
  }
  #showcase .button:hover{
     background: black;
-    color: wheat;
+    color: wheat;}
+
+    #section a .outer{
+      width: 100%;
+    }
+    #section a .inner{
+      width: 33%;
+      float: left;
+    }
